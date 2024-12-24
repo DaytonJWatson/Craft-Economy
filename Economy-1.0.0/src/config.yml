@@ -1,0 +1,10 @@
+bankSettings:
+  defaultBalance: 1000000000
+  defaultTaxRate: 0.0
+
+playerSettings:
+  defaultBalance: 500
+  
+pluginSettings:
+  useDynamicBank: true
+  usePermissions: true

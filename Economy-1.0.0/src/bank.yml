@@ -1,0 +1,4 @@
+bank:
+  balance: 1000000.00
+  taxRate: 0.05
+  
